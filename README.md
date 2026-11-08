@@ -47,7 +47,7 @@
   * [Step 35: AWS Console – Account Menu](#step-35-aws-console--account-menu)
   * [Step 36: AWS Console – MFA Sign-In Verification](#step-36-aws-console--mfa-sign-in-verification)
   * [Step 37: AWS Management Console – Home Dashboard](#step-37-aws-management-console--home-dashboard)
-  * [ Cloud Identity Protection & Security Guidelines](#Cloud-Identity-Protection-&-Security-Guidelines)
+  * [Cloud Identity Protection & Security Guidelines](#Cloud-Identity-Protection-&-Security-Guidelines)
   * [ Disclaimer](#Disclaimer)
 
 
