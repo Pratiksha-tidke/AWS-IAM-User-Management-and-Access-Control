@@ -47,7 +47,8 @@
   * [Step 35: AWS Console – Account Menu](#step-35-aws-console--account-menu)
   * [Step 36: AWS Console – MFA Sign-In Verification](#step-36-aws-console--mfa-sign-in-verification)
   * [Step 37: AWS Management Console – Home Dashboard](#step-37-aws-management-console--home-dashboard)
-
+  * [ Cloud Identity Protection & Security Guidelines](#Cloud-Identity-Protection-&-Security-Guidelines)
+  * [ Disclaimer](#Disclaimer)
 
 
 ## Introduction
@@ -418,7 +419,7 @@ The AWS Management Console acts as a central control panel for managing cloud re
 5. **Enable MFA:** Enable Multi-Factor Authentication (MFA) for the root account and administrator accounts to add an extra layer of security.
 6. **Manage Group Permissions:** Use IAM groups to manage permissions centrally. Remove users from groups when they no longer require access.
 
-**These security practices help reduce unauthorized access, protect AWS accounts, and improve cloud security.**
+##### *These security practices help reduce unauthorized access, protect AWS accounts, and improve cloud security.*
 ----
 
 ## Disclaimer
